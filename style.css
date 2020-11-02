@@ -1,0 +1,62 @@
+.container {
+            background-color: #84b252;
+            margin-bottom: 30px;
+            padding-bottom: 20px
+}
+header {
+        font-family:'Montserrat', sans-serif;
+        font-size: 32px;
+}
+ul {
+    padding-top: 40px;
+}
+a  {
+    text-decoration: none;
+    padding-right: 20px;
+    font-size: 20px;
+    color: #520810;
+}
+h2 {
+    color: #ff0000;
+    text-align: center;
+}
+.image {
+    display: block;
+    margin-left: 18%;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: #ff0000;
+  }
+.fa-twitter {
+    background: #55ACEE;
+    color: #ff0000;
+}
+.btn {
+    border: 10px;
+    background-color: #84b252;
+    padding: 14px 28px;
+    font-size: 16px;
+    float: 50%;
+}
+.column {
+    float: left;
+    width: 50%;
+    }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+
